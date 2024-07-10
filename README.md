@@ -793,7 +793,7 @@ The apps on this (incomplete) list have been requested so far:
 | Haier Uhome     | China         | :x:                                     | [banto6/haier](https://github.com/banto6/haier)                                 |
 | Haier U+        | China         | :x:                                     |                                                                                 |
 | GE SmartHQ      | North America | :x:                                     | [simbaja/ha_gehome](https://github.com/simbaja/ha_gehome)                       |   
-| Haier Evo       | Russia        | :x:                                     |                                                                                 |
+| Haier Evo       | Russia        | :x:                                     | [and7ey/haier_evo](https://github.com/and7ey/haier_evo)                         |
 
 ## Contribute
 Any kind of contribution is welcome!
